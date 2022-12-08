@@ -16,5 +16,7 @@
 
 #### Get to know me as a developer!
 Contact me at either:
+
 https://www.linkedin.com/in/randy-y-chang/
+
 https://angel.co/u/randy-chang-2
