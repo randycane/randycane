@@ -15,8 +15,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### Get to know me as a developer!
-Contact me at either:
+Contact me at:
 
-https://www.linkedin.com/in/randy-y-chang/
-
-https://angel.co/u/randy-chang-2
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-y-chang/) 
